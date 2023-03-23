@@ -1,6 +1,6 @@
 ### Price Prediction with a Regression Model
 
-![Alt Text](https://www.kaggle.com/code/suneelpatel/boston-house-price-prediction)
+![Alt Text](https://lc.zoocdn.com/9f2d741927ffa878efa9a4ffa181dfcb119f7fc3.jpg)
 
 ![Alt Text](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*I2g3aTLoD8GeEaur1i4ZxQ.png)
 
