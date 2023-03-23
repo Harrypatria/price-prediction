@@ -1,5 +1,7 @@
 ### Price Prediction with a Regression Model
 
+(https://www.kaggle.com/code/suneelpatel/boston-house-price-prediction)
+
 ![Alt Text](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*I2g3aTLoD8GeEaur1i4ZxQ.png)
 
 - Understand the problem. We'll look at each variable and do a philosophical analysis about their meaning and importance for this problem.
